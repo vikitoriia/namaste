@@ -69,6 +69,11 @@ body {
 
 .ba-info section:hover {
   background-color: #00c9cc;
+  
+}
+
+.ba-info section:hover img{
+	filter: invert()
 }
 
 .ba-info :nth-child(1) img {
